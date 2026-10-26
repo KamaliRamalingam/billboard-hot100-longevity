@@ -1,0 +1,13 @@
+# BigQuery service account key: never commit
+bigquery-access-key.json
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+.venv/
+venv/
+
+# OS
+.DS_Store
